@@ -1,6 +1,7 @@
 name: test-toolkit
 title: Bonita Test Toolkit
 version: 1.0.0-alpha
+start_page: modules/process-testing/pages/process-testing-overview.adoc
 asciidoc:
   attributes:
     # General site configuration
