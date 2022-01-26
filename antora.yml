@@ -1,0 +1,9 @@
+name: test-toolkit
+title: Bonita Test Toolkit
+version: 1.0.0-alpha
+asciidoc:
+  attributes:
+    # General site configuration
+    page-editable: true
+nav:
+  - modules/process-testing/nav.adoc
